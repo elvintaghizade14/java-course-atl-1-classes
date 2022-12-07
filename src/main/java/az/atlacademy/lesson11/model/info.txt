@@ -1,0 +1,6 @@
+Lesson 11. Packages
+    - Packaging. Built-in packages
+    - Importing packages. Single class imports
+    - Static imports, Whole package imports (using wildcards) User defined packages.
+    - Final methods, final classes, polymorphism, abstract methods UML Diagrams for class designing
+    - Encapsulation (different packages: default vs protected)
