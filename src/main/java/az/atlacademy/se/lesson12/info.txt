@@ -1,0 +1,7 @@
+Lesson 12. Enumerations and Wrapper types
+    - Enumerations
+    - Methods, calling other methods and passing variables
+    - local variables, formal parameters
+    - Passing by value.
+    - Wrapper alternatives of primitive types like Integer, Long etc...
+    - Var keyword

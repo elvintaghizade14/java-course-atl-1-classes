@@ -1,4 +1,4 @@
-package az.atlacademy.lesson11.model;
+package az.atlacademy.se.lesson11;
 
 
 import java.util.Arrays;

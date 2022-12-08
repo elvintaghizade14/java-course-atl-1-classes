@@ -1,4 +1,4 @@
-package az.atlacademy;
+package az.atlacademy.se.lesson11;
 
 
 import java.util.Arrays;
@@ -14,6 +14,8 @@ public class App {
         Person elvin2 = new Person(24, "Elvin", new int[]{1, 2});
         Person elvin3 = new Person(24, "Elvin", new int[]{1, 2});
         Person elvin4 = new Person(24, "Elvin", new int[]{1, 2});
+        // az.atlacademy.se.lesson11.model.Person elvin5
+        //        = new az.atlacademy.se.lesson11.model.Person(24, "Elvin", new int[]{1, 2});
 
         out.println(PI);
         out.println(PI);
