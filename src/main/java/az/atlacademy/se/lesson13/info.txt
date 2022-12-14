@@ -1,0 +1,12 @@
+Lesson 12. Enumerations and Wrapper types
+    - Exception hierarchy
+    - checked vs unchecked exceptions
+    - Compile-time vs run-time
+    - Errors, Handling exceptions
+    - try, catch, finally blocks
+    - Multiple catch vs union catch
+    - throws statement
+    - Try-with-resources
+    - Throwing new exceptions
+    - Custom exceptions
+    - Swallowing exceptions
