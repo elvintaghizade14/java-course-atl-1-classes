@@ -1,4 +1,4 @@
-Lesson 12. Enumerations and Wrapper types
+Lesson 13. Exceptions
     - Exception hierarchy
     - checked vs unchecked exceptions
     - Compile-time vs run-time
