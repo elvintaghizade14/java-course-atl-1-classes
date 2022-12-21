@@ -1,4 +1,7 @@
 Lesson 12. Enumerations and Wrapper types
+    - program lifecycle:
+        * input -> process -> output
+    - Library
     - LocalDate
     - LocalDateTime  LocalTime
     - Instance
