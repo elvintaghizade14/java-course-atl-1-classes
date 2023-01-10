@@ -13,3 +13,7 @@ Algorithms and Data Structures #1
         ● Heap sort
     e. Benchmarking & visualization
     f. Intro to Collection API
+        ● Array
+        ● ArrayList
+        ● Set
+        ● Map
