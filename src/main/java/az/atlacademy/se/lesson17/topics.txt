@@ -1,0 +1,15 @@
+Algorithms and Data Structures #1
+    a. Overview
+    b. Complexity notations
+    c. Searching
+        ● Linear search
+        ● Binary search
+    d. Sorting algorithms
+        ● Bubble sort
+        ● Insertion sort
+        ● Selection sort
+        ● Merge sort
+        ● Quick sort
+        ● Heap sort
+    e. Benchmarking & visualization
+    f. Intro to Collection API
