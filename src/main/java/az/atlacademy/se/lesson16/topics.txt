@@ -1,1 +1,8 @@
-skipped, will be covered later due to limitations on knowledge...
+Functional interface
+ï¶ Lambda expressions.
+Comparator, Comparable class.
+Sorting collections.
+Anonymous classes and methods.
+Method references.
+
+https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem
