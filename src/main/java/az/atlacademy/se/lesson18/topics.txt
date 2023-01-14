@@ -1,0 +1,14 @@
+- Intro to DS
+- Intro to java collection framework
+    - ArrayList
+    - LinkedList
+    - Map
+    - Set
+    - Vector
+    - Stack
+    - Queue
+    - Set vs List.
+    - LinkedHashSet, TreeSet
+    - PriorityQueue
+    - Collections class, Arrays class
+    - Ready JDK implementations.
