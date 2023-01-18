@@ -1,0 +1,11 @@
+Java 8 features continued:
+    - Java Stream API
+        - source
+        - intermediate
+        - terminal
+    - Optional class
+    - Supplier interface
+    - Consumer interface
+    - Collectors class
+    - forEach() method
+    - default and static methods in Interfaces

@@ -1,5 +1,5 @@
 Functional interface
-ï¶ Lambda expressions.
+Lambda expressions.
 Comparator, Comparable class.
 Sorting collections.
 Anonymous classes and methods.
