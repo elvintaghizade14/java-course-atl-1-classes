@@ -1,18 +1,7 @@
 package az.atlacademy.se.lesson14;
 
-import java.text.SimpleDateFormat;
-import java.time.Instant;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.LocalTime;
-import java.time.Month;
-import java.time.Period;
-import java.time.ZoneId;
-import java.time.ZonedDateTime;
+import java.time.*;
 import java.time.format.DateTimeFormatter;
-import java.time.temporal.ChronoUnit;
-import java.util.Calendar;
-import java.util.Date;
 
 public class DateTimeApp {
 
@@ -53,11 +42,11 @@ public class DateTimeApp {
         LocalDateTime localDateTime = LocalDateTime.of(date2, nowTime);
         System.out.println(localDateTime);
 
-        Date date = new Date();
-        System.out.println(date);
-        System.out.println(date.getDay());
-        date.setYear(1999);
-        System.out.println(date);
+//        Date date = new Date();
+//        System.out.println(date);
+//        System.out.println(date.getDay());
+//        date.setYear(1999);
+//        System.out.println(date);
 
         doAction(Period.ofDays(2));
         doAction(Period.ofYears(1));
