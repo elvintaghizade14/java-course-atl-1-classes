@@ -1,0 +1,5 @@
+Overall recap of Module #1
+Input-Process-Output model:
+    - Controller
+    - Service
+    - DAO/Repository
