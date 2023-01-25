@@ -1,11 +1,10 @@
 package az.atlacademy.se.lesson20;
 
 import java.io.*;
-import java.util.Arrays;
 
 import static az.atlacademy.se.lesson20.MyPath.RESOURCE;
 
-public class FileReaderApp {
+public class FileOperationsApp {
 
     public static void main(String[] args) {
 
