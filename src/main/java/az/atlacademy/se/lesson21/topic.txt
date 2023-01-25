@@ -1,5 +1,5 @@
 InputOutputStreams & Reading and Writing files continued
     - Object writing & reading as text
     - Serialization & Object Streams
-    - Binary conversions (.ser)
+    - Binary files (.ser, .bin)
     - Binary vs XML vs JSON serializations
