@@ -2,7 +2,6 @@ package az.atlacademy.se.lesson23;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.ThreadPoolExecutor;
 
 import static java.lang.Thread.currentThread;
 
