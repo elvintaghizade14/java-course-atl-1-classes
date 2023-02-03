@@ -4,5 +4,5 @@
 
 4. JDK (not JRE!):
 https://www.oracle.com/technetwork/java/javase/downloads/index.html
-Google: [JDK 8 download oracle]
-Actually we need any JDK8+
+Google: [JDK 8 or 11 download oracle]
+Actually we need any JDK8+, I am using JDK-11.0.17
