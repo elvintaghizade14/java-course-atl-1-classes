@@ -1,11 +1,13 @@
-- Input-Process-Output model:
-    - Controller
-    - Service
-    - DAO/Repository
-    - SOLID principles
-        * Single Responsibility
-        * Open/Close
-        * Liskov Substitution
-        * Interface Segregation
-        * Dependency Inversion!!!
-- Register Application Structure
+- Atomic scalars
+- Optional:
+    - Input-Process-Output model:
+        - Controller
+        - Service
+        - DAO/Repository
+        - SOLID principles
+            * Single Responsibility
+            * Open/Close
+            * Liskov Substitution
+            * Interface Segregation
+            * Dependency Inversion!!!
+    - Register Application Structure
